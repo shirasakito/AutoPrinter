@@ -1,5 +1,5 @@
 # AutoPrinter
-Excel add-in (2016), replace to a printing VBA macro.
+An Excel add-in (2016), replace to a printing VBA macro.
 
 VBA による印刷マクロを Excel アドイン形式の GUI に置き換えるもの。
 

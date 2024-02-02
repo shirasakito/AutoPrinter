@@ -1,5 +1,5 @@
 # AutoPrinter
-VBA による一般的な印刷マクロを GUI の Excel アドインに置き換えるもの。
+VBA による一般的な印刷マクロを GUI の Excel アドイン（C#）に置き換えるもの。
 
 ## インストール
 - ```InstallerAutoPrinterExcelAddIn.zip``` を展開して ```setup.exe``` を実行してください。
